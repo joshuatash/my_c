@@ -9,6 +9,7 @@ int main() {
     printf("Enter your name: ");
     fgets(name, sizeof(name), stdin);  
 
+    
     printf("Enter your age: ");
     scanf("%d", &age);
 
