@@ -4,7 +4,6 @@ int main() {
     char name[50];
     int age;
     float gpa;
-
     
     printf("Enter your name: ");
     fgets(name, sizeof(name), stdin);  
